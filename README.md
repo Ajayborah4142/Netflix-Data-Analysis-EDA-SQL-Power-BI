@@ -1,6 +1,72 @@
 # Netflix-Data-Analysis-EDA-SQL-Power-BI
 Performed comprehensive analysis on `Netflix shows and movies` dataset using multiple tools. Conducted exploratory data analysis (EDA) in Python, queried and managed data with MySQL, processed and analyzed data in Excel, and created interactive dashboards in Power BI to uncover trends in release patterns, genres, ratings, and cast/director insights.
 
+# Netflix EDA & Data Cleaning 
+
+##  Project Overview
+
+This project focuses on **Exploratory Data Analysis (EDA)** and **Data Cleaning** of the Netflix dataset.
+The goal is to explore trends, clean messy data, and prepare it for further analysis or machine learning applications.
+
+##  Objectives
+
+* Understand the structure of the Netflix dataset
+* Perform data cleaning (handle missing values, duplicates, and inconsistencies)
+* Conduct exploratory data analysis (EDA) to identify trends and patterns
+* Visualize insights with Python libraries
+
+##  Dataset Description
+
+The dataset contains information about movies and TV shows available on Netflix, including:
+
+* **Title**
+* **Director**
+* **Cast**
+* **Country**
+* **Date Added**
+* **Release Year**
+* **Rating**
+* **Duration**
+* **Listed in (Genre)**
+* **Description**
+
+##  Steps Performed
+
+1. **Data Cleaning**
+
+   * Handled missing values
+   * Removed duplicates
+   * Standardized column names and formats
+
+2. **Exploratory Data Analysis (EDA)**
+
+   * Distribution of content by type (Movies vs TV Shows)
+   * Most common genres
+   * Trend of content added over the years
+   * Country-wise contribution to Netflix library
+   * Analysis of ratings and duration
+
+3. **Visualizations**
+
+   * Count plots, bar charts, pie charts
+   * Trend analysis with line plots
+   * Word cloud for genres/descriptions
+
+##  Key Insights
+
+* Movies dominate the Netflix library compared to TV Shows
+* Certain genres (like Drama, International Movies) are highly represented
+* The number of new titles peaked in recent years
+* USA and India contribute a large share of Netflix content
+
+##  Conclusion
+
+This project provides a clear understanding of Netflix's content library, highlights data cleaning techniques, and showcases insights through EDA.
+It serves as a foundation for further projects like recommendation systems or predictive modeling.
+
+
+# MySQL Data Analysis 
+
 ## Project Overview
 
 This project focuses on analyzing the Netflix dataset to gain actionable insights related to content strategy, audience targeting, and operational trends. It leverages SQL for data exploration, aggregation, and trend analysis.
