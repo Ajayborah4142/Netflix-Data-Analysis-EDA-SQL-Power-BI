@@ -1,4 +1,4 @@
-## Create Database Of Netflix 
+## Create Database Of Netflix
 
 DROP DATABASE IF EXISTS Netflix_Data_Analysis ;
 CREATE DATABASE Netflix_Data_Analysis;
