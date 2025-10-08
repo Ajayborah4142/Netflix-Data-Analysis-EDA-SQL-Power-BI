@@ -1,4 +1,8 @@
-# Netflix Data Analysis — EDA, SQL & Power BI
+<p align="center">
+  <img src="https://github.com/Ajayborah4142/Netflix-Data-Analysis-EDA-SQL-Power-BI/blob/main/netflix-logo-png-2582.png" width="200" alt="Netflix Logo">
+</p>
+
+<h1 align="center">Netflix Data Analysis | EDA + SQL + Power BI</h1>
 
 **Performed comprehensive analysis on the `Netflix shows and movies` dataset using Python (EDA), MySQL (data wrangling & queries), Excel (ad hoc checks), and Power BI (interactive dashboards).**
 The analysis uncovers trends in release patterns, genres, ratings, and cast/director insights.
